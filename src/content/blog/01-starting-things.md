@@ -1,6 +1,6 @@
 ---
 title: 'Starting something new'
-description: 'It's hard as an adult'
+description: 'Its hard as an adult'
 pubDate: 'Sept 27 2023'
 ---
 
