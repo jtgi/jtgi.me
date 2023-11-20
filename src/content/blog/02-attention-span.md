@@ -1,7 +1,7 @@
 ---
-title: 'Attention span'
-description: 'Its shot'
-pubDate: 'Sept 27 2023'
+title: "Attention span"
+description: "Its shot"
+pubDate: "Oct 15 2023"
 ---
 
 Low effort, high dopamine products have messed with my productivity and ability to sustain deep work.
