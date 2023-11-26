@@ -1,17 +1,18 @@
 ---
-title: "Good Morning"
-description: "Your notifications are ready"
+title: "You have 96 Unread Notifications"
+description: "Good morning, by the way"
 pubDate: "Nov 20 023"
 ---
 
-John has been asleep only 6 hours. 32 notifications. The usual, a bunch of newsletters he subscribed to with great aspiration but hasn't read:
+It's only been 6 hours. 96 notifications. The usual, a bunch of newsletters he subscribed to with great aspiration but hasn't read:
 
-- "Indy Hackers: From 0 to 14k MRR"
+- "Gmail: From 0 to 14k MRR"
 - "Gmail: Xi Biden find alliance in San Francisco"
 - "Bloomberg: Powell hawkish; Stocks tumble"
 - "iMessage: Chris sent you a message"
+- "Telegram: I AM SATOSHI: 74 Unread Messages"
 - "Photos: 3 New Photos"
-- "System: An update is available for your iPhone"
+- "System: An update is available"
 - "Gmail: Lynn Valley Optical: 10% off all frames"
 - "Gmail: is America salvagable?"
 
@@ -31,6 +32,6 @@ He received a couple of messages from friends on other timezones. Most link shar
 
 But not before spending another 28 minutes watching reels, from "Top 10 Secret Places in Tokyo" (they weren't very secret) to old Mike Tyson interviews cut with dramatic music and cookie cutter glitch effects (he'd seen them at least on 4 times already).
 
-After 47 minutes he rolls over, legs hitting the floor as his body swivels upright. After waiting out rush of blood to his head he sits in the cold, phone cluthed in his hand family still asleep.
+After 47 minutes he rolls over, legs hitting the floor as his body swivels upright. He waits for the rush of blood to leave his head as he sits in the cold, phone cluthed in his hand, family asleep.
 
 > "Is the american dollar really debased?"
